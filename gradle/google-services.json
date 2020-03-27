@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643471338728",
+    "firebase_url": "https://nachat-8244c.firebaseio.com",
+    "project_id": "nachat-8244c",
+    "storage_bucket": "nachat-8244c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643471338728:android:e37cd30c609a8289552d5d",
+        "android_client_info": {
+          "package_name": "com.magus.nachato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643471338728-md239ngpb0h3102ijo42imnvp20erm4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZas562i5kpW5lSCaAwSC2SvD6bxAnKzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643471338728-md239ngpb0h3102ijo42imnvp20erm4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
