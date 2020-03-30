@@ -29,8 +29,8 @@ public class RegisterActivity extends AppCompatActivity {
     Button btnRegistrar;
 
     FirebaseAuth auth;
-    DatabaseReference reference;
 
+    DatabaseReference reference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
